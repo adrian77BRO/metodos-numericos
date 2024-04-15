@@ -1,0 +1,11 @@
+.login {
+  box-shadow: 0 0 40px black;
+}
+
+.boton {
+  background-color: rgb(255, 255, 0);
+}
+
+.boton:hover, .login-fondo{
+  background-color: rgb(20, 180, 20);
+}
